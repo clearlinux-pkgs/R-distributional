@@ -5,7 +5,7 @@
 #
 Name     : R-distributional
 Version  : 0.3.2
-Release  : 12
+Release  : 13
 URL      : https://cran.r-project.org/src/contrib/distributional_0.3.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/distributional_0.3.2.tar.gz
 Summary  : Vectorised Probability Distributions
